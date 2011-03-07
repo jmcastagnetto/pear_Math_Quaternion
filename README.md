@@ -11,13 +11,14 @@ are defined as:
     
 In 1844 Hamilton described a system in which numbers were composed of
 a real part and 3 imaginary and independent parts (i,j,k), such that:
-    i^2 = j^2 = k^2 = -1       and
-    ij = k, jk = i, ki = j     and
-    ji = -k, kj = -i, ik = -j
+    1. i^2 = j^2 = k^2 = -1
+    2. ij = k, jk = i, ki = j
+    3. ji = -k, kj = -i, ik = -j
 
 These are known as "Hamilton's rules"
 
-This is old code I wrote for PEAR. Originally it was tracked in CVS,
-then it was moved to SVN, and now I am importing it to git :-)
+This is old code I wrote for [PEAR](http://pear.php.net). 
+Originally it was tracked in CVS, then it was moved to SVN, 
+and now I am importing it to git :-)
 
 -- Jesus M. Castagnetto
